@@ -1,0 +1,2 @@
+# BangDreamStickerSet
+Automated Uploader (test)
